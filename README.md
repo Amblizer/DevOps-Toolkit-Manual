@@ -6,5 +6,5 @@
 1. [VS Code][l-vscode]
 
 <!-- links -->
-[l-vim]: editor/vim/README.md
-[l-vscode]: editor/vscode/README.md
+[l-vim]: editor/vim
+[l-vscode]: editor/vscode
