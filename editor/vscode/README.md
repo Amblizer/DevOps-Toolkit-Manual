@@ -30,4 +30,8 @@ Insert TOC | Ctrl + M, T
 
 ### Vim
 
-Same as
+Same as [Vim][l-vim]
+
+<!-- links -->
+
+[l-vim]: ../vim
